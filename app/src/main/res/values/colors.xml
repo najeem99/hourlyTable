@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#182C61</color>
+    <color name="colorPrimaryDark">#2C3A47</color>
+    <color name="colorAccent">#58B19F</color>
+    <color name="current_color">#0097e6</color>
+    <color name="next_color">#fbc531</color>
+    <color name="days_color_in_table_bg">#2c3e50</color>
+    <color name="days_color_in_table_txt">#c0392b</color>
+    <color name="periods_color_in_table_txt">#bdc3c7</color>
+    <color name="periods_color_in_table_bg">#2c3e50</color>
+    <color name="bg1">#ecf0f1</color>
+</resources>

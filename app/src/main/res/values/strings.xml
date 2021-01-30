@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hourly Table</string>
+    <string name="appwidget_text">najeem</string>
+    <string name="add_widget">Add widget</string>
+    <string-array name="deptname">
+
+        <item>CSE 6th Semester Sec-B</item>
+        <item>CIVIL 6th Semester Sec-B</item>
+        <item>MECH 6th Semester Sec-C</item>
+    </string-array>
+</resources>
